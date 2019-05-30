@@ -36,6 +36,7 @@
   },
   "homepage": "https://github.com/coatue-oss/react2angular#readme",
   "peerDependencies": {
+    "angular": ">=1.5",
     "@types/angular": ">=1.5",
     "@types/prop-types": ">=15",
     "@types/react": ">=16",
@@ -76,7 +77,6 @@
   },
   "dependencies": {
     "@types/lodash.frompairs": "^4.0.5",
-    "angular": ">=1.5",
     "lodash.frompairs": "^4.0.1",
     "ngcomponent": "^4.1.0"
   }
